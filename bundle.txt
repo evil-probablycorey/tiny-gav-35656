@@ -8,7 +8,7 @@ span {
   <head>
   </head>
   <body>
-    Hey gav this is <span>God</span>
+    Hey gav this is <span>God!</span>
     <button id="button">Click me</button>
   </body>
   </html>
